@@ -1,0 +1,14 @@
+C:\Users\felipe.gbatista\OneDrive\Felipe Goes\aula 8\aula 8\bin\Debug\net8.0\aula 8.exe
+C:\Users\felipe.gbatista\OneDrive\Felipe Goes\aula 8\aula 8\bin\Debug\net8.0\aula 8.deps.json
+C:\Users\felipe.gbatista\OneDrive\Felipe Goes\aula 8\aula 8\bin\Debug\net8.0\aula 8.runtimeconfig.json
+C:\Users\felipe.gbatista\OneDrive\Felipe Goes\aula 8\aula 8\bin\Debug\net8.0\aula 8.dll
+C:\Users\felipe.gbatista\OneDrive\Felipe Goes\aula 8\aula 8\bin\Debug\net8.0\aula 8.pdb
+C:\Users\felipe.gbatista\OneDrive\Felipe Goes\aula 8\aula 8\obj\Debug\net8.0\aula 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.gbatista\OneDrive\Felipe Goes\aula 8\aula 8\obj\Debug\net8.0\aula 8.AssemblyInfoInputs.cache
+C:\Users\felipe.gbatista\OneDrive\Felipe Goes\aula 8\aula 8\obj\Debug\net8.0\aula 8.AssemblyInfo.cs
+C:\Users\felipe.gbatista\OneDrive\Felipe Goes\aula 8\aula 8\obj\Debug\net8.0\aula 8.csproj.CoreCompileInputs.cache
+C:\Users\felipe.gbatista\OneDrive\Felipe Goes\aula 8\aula 8\obj\Debug\net8.0\aula 8.dll
+C:\Users\felipe.gbatista\OneDrive\Felipe Goes\aula 8\aula 8\obj\Debug\net8.0\refint\aula 8.dll
+C:\Users\felipe.gbatista\OneDrive\Felipe Goes\aula 8\aula 8\obj\Debug\net8.0\aula 8.pdb
+C:\Users\felipe.gbatista\OneDrive\Felipe Goes\aula 8\aula 8\obj\Debug\net8.0\aula 8.genruntimeconfig.cache
+C:\Users\felipe.gbatista\OneDrive\Felipe Goes\aula 8\aula 8\obj\Debug\net8.0\ref\aula 8.dll

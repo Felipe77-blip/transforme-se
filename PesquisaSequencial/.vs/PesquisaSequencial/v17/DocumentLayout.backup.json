@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\felipe.gbatista\\OneDrive\\Felipe Goes\\PesquisaSequencial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0418ABD6-ED45-4768-8EFA-9219C99BE342}|PesquisaSequencial\\PesquisaSequencial.csproj|c:\\users\\felipe.gbatista\\onedrive\\felipe goes\\pesquisasequencial\\pesquisasequencial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0418ABD6-ED45-4768-8EFA-9219C99BE342}|PesquisaSequencial\\PesquisaSequencial.csproj|solutionrelative:pesquisasequencial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\felipe.gbatista\\OneDrive\\Felipe Goes\\PesquisaSequencial\\PesquisaSequencial\\Program.cs",
+              "RelativeDocumentMoniker": "PesquisaSequencial\\Program.cs",
+              "ToolTip": "C:\\Users\\felipe.gbatista\\OneDrive\\Felipe Goes\\PesquisaSequencial\\PesquisaSequencial\\Program.cs",
+              "RelativeToolTip": "PesquisaSequencial\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T22:31:47.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
